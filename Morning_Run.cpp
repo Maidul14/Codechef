@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	int  a,b ; cin>>a>>b;
 	int res= a*2+b*2;
-	if(res>=100){
+	if(res>=1000){
 	    cout<<"YES"<<endl;
 	}
 	else cout<<"NO"<<endl;
