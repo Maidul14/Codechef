@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-//problem link :
+//problem link :https://www.codechef.com/problems/MANIPULATE
 int main() {
 	int test ; cin>>test ;
 	while(test--){
